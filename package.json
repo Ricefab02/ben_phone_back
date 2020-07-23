@@ -1,0 +1,29 @@
+{
+  "name": "ben_phone_back",
+  "version": "1.0.0",
+  "description": "BDD",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricefab02/ben_phone_back.git"
+  },
+  "author": "Ricefab02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricefab02/ben_phone_back/issues"
+  },
+  "homepage": "https://github.com/Ricefab02/ben_phone_back#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-router": "0.0.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
