@@ -1,0 +1,14 @@
+### recuperation des données Marques
+GET http://localhost:8000/brands
+
+### recuperation des données téléphone
+GET http://localhost:8000/brands/1/phones
+
+### recuperation des données téléphone
+GET http://localhost:8000/phones
+
+### recuperation des données reparations
+GET http://localhost:8000/phones/1/repairs
+
+### recuperation des données reparations
+GET http://localhost:8000/repairs
